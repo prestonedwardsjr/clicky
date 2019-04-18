@@ -1,4 +1,7 @@
-[{
+
+
+[
+  {
     "id": 1,
     "name": "Pyramid of Khafra (Chephren) and the Great Sphinx",
     "image": "https://www.nationsonline.org/gallery/Monuments/Pyramid-of-Khafre-and-Great-Sphinx.jpg"
@@ -57,6 +60,23 @@
     "id": 12,
     "name": "Luxor",
     "image": "https://www.nationsonline.org/gallery/Monuments/Luxor-Temple.jpg"
+  },
+  {"id": 13,
+    "name": "SpongeBob",
+    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+  },
+  {
+    "id": 14,
+    "name": "Mr. Krabs",
+    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
+    "occupation": "Restaurant Owner",
+    "location": "A Giant Anchor"
+  },
+  {
+    "id": 15,
+    "name": "Squidward",
+    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
+    "occupation": "Cashier",
+    "location": "An Easter Island Head"
   }
-  
 ]
