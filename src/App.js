@@ -15,31 +15,18 @@ class App extends Component {
   render() {
     console.log(this.state.landmarks)
     return (
-
-
-
-
       <Wrapper>
         <Title>Landmarks Clicky Game</Title>
         {this.state.landmarks.map(landmark => (
           <LandmarkCard
             id={landmark.id}
             key={landmark.id}
-            alt={landmark.name}
-            src={landmark.image}
+            name={landmark.name}
+            image={landmark.image}
           />
         ))}
       </Wrapper>
     );
-    /* <FriendCard />
-     Console.log(landmark.image)
-     (<img key = {landmark.name} src = {landmark.image } alt={landmark.name}></img>)
-    //   ))
-    // } */
-
-
-
-
   }
 }
 
