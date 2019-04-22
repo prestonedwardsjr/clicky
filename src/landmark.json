@@ -4,79 +4,77 @@
   {
     "id": 1,
     "name": "Pyramid of Khafra (Chephren) and the Great Sphinx",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Pyramid-of-Khafre-and-Great-Sphinx.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Pyramid-of-Khafre-and-Great-Sphinx.jpg",
+    "clicked": false
   },
   {
     "id": 2,
-    "name": "Taj Maha",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Taj-Mahal-Agra.jpg"
+    "name": "Taj Mahal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/FWT1.jpg/220px-FWT1.jpg",
+
+    "clicked": false
   },
   {
     "id": 3,
     "name": "Stonehenge",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Stonehenge.jpg"
+    "image": "https://cdn.pixabay.com/photo/2013/04/08/14/22/stonehenge-101801__480.jpg",
+    "clicked": false
   },
   {
     "id": 4,
     "name": "Great Wall of China",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Great_Wall_of_China.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Great_Wall_of_China.jpg",
+    "clicked": false
   },
   {
     "id": 5,
     "name": "The Colosseum",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Colosseum_in_Rome.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Colosseum_in_Rome.jpg",
+    "clicked": false
   },
+  
+
   {
     "id": 6,
     "name": "Statue of Liberty",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Statue_of_Liberty2.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Statue_of_Liberty2.jpg",
+    "clicked": false
   },
   {
     "id": 7,
     "name": "Eiffel Tower",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Eiffel_Tower.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Eiffel_Tower.jpg",
+    "clicked": false
   },
   {
     "id": 8,
     "name": "Empire State Building",
-    "image": "https://www.nationsonline.org/oneworld/most_famous_landmarks2.htm"
+    "image": "https://www.nationsonline.org/gallery/Monuments/NYC_Empire_State_Building.jpg",
+    "clicked": false
   },
   {
     "id": 9,
     "name": "Leaning Tower of Pisa",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Leaning_Tower_of_Pisa.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Leaning_Tower_of_Pisa.jpg",
+    "clicked": false
   },
   {
     "id": 10,
     "name": "Chichen Itza",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Chichen_Itza.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Chichen_Itza.jpg",
+    "clicked": false
   },
   {
     "id": 11,
     "name": "The White House",
-    "image": "https://www.nationsonline.org/gallery/Monuments/White_House.jpg"
+    "image": "https://www.nationsonline.org/gallery/Monuments/White_House.jpg",
+    "clicked": false
   },
   {
     "id": 12,
     "name": "Luxor",
-    "image": "https://www.nationsonline.org/gallery/Monuments/Luxor-Temple.jpg"
-  },
-  {"id": 13,
-    "name": "SpongeBob",
-    "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
-  },
-  {
-    "id": 14,
-    "name": "Mr. Krabs",
-    "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
-  },
-  {
-    "id": 15,
-    "name": "Squidward",
-    "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "image": "https://www.nationsonline.org/gallery/Monuments/Luxor-Temple.jpg",
+    "clicked": false
   }
+  
 ]

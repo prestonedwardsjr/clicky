@@ -3,6 +3,7 @@ import LandmarkCard from "./components/LandmarkCard";
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Header";
 import landmarks from "./landmark.json";
+import Footer from "./components/Footer";
 
 class App extends Component {
   // Setting this.state.landmarks to the landmarks json array
@@ -24,7 +25,9 @@ class App extends Component {
             name={landmark.name}
             image={landmark.image}
           />
+          
         ))}
+         <Footer/>
       </Wrapper>
     );
   }
